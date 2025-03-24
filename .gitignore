@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.ogg
+*.mp3
+*.wav
